@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"  width="1808" height="208"/>
-<h1 align="left" id="macropower-title" font-size="50">:wave: Hello there! I'm Zayniddinov Shohrux</h1>
+<h1 align="left" id="macropower-title" font-size="50">:wave: Hello! I'm Shaxriyor</h1>
 <h3 align="left">Full Stack Developer </h3>
 
 <p align="left">
@@ -28,7 +28,7 @@
 
 
 
-👋 Hi, I'm Shohrux — a passionate Front-End & Back-End Developer from Uzbekistan.  
+👋 Hi, I'm Shaxriyor — a passionate Front-End & Back-End Developer from Uzbekistan.  
 💻 I build modern, responsive, and creative websites that focus on user experience and clean design.  
 🚀 Always learning new tech and improving my coding skills every day.  
 ⚡ Love working on cool projects with minimalistic style and smart functionality.  
